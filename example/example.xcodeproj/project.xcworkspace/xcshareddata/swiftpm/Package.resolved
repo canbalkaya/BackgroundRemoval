@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "backgroundremoval",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/canbalkaya/BackgroundRemoval",
+      "state" : {
+        "branch" : "main",
+        "revision" : "536970101b2e328f07d5f69c56b045269ab9818d"
+      }
+    }
+  ],
+  "version" : 2
+}
