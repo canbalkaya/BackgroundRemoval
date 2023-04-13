@@ -8,7 +8,7 @@ import CoreML
 
 
 /// Model Prediction Input Type
-@available(macOS 13.0, iOS 14.0, tvOS 14.0, watchOS 7.0, *)
+@available(macOS 12.0, iOS 14.0, tvOS 14.0, watchOS 7.0, *)
 class LaLabsu2netpInput : MLFeatureProvider {
 
     /// in_0 as color (kCVPixelFormatType_32BGRA) image buffer, 320 pixels wide by 320 pixels high
